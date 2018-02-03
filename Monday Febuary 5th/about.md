@@ -5,7 +5,7 @@ Our first class together! We'll be getting started learning to code to in Python
 Middle school dance rules apply, Macs sit with Macs and PCs sit with PCs.
 
 ## Slides
-Slides for the class are found (here)[].
+Slides for the class are found (here)[http://jessicagarson.com/NYU-Intro-to-Python-Feb-5].
 
 ## Agenda
 ### Welcome
