@@ -1,10 +1,9 @@
 # Syllabus
 
-We'll be diving into the basics of learning how to code in python. By the time we finish class you will should be able to start writing code in python on a regular basis.
+We'll be diving into the basics of learning how to code in python. By the time we finish class you will should be able to start writing code in Python on a regular basis.
 
 ## Monday February 5th
 6:30 PM to 8:00 PM
-WOOL_330
 
 This is our first class, and we'll spend the majority of the class setting up for successful semester.
 
@@ -19,7 +18,6 @@ This is our first class, and we'll spend the majority of the class setting up fo
 
 ## Thursday February 8
 6:30 PM to 8:00 PM
-WOOL_330
 
 We'll get started writing code in python in this class and spend time in the command line getting to know that interface.
 
@@ -33,7 +31,6 @@ We'll get started writing code in python in this class and spend time in the com
 
 ## Monday February 12th
 6:30 - 8:00 PM
-WOOL_330
 
 The focus of this class will be getting to know the basics such as operators, strings and conditional statements.
 
@@ -45,7 +42,6 @@ The focus of this class will be getting to know the basics such as operators, st
 
 ## Thursday February 15th
 6:30 - 8:00pm
-WOOL_330
 
 We'll focus on functions which are the building blocks of programs in python.
 
@@ -57,7 +53,6 @@ We'll focus on functions which are the building blocks of programs in python.
 
 ## Monday February 26th
 6:30 - 8:00pm
-WOOL_330
 
 We'll focus on lists and loops for this class. We'll spend some time live coding and end the class by writing a program together as a class.
 
@@ -67,7 +62,6 @@ We'll focus on lists and loops for this class. We'll spend some time live coding
 
 ## Thursday March 1st
 6:30 - 8:00 PM
-WOOL_330
 
 We'll be using jupyter notebooks for the next class. We'll talk about file handling, virtual environments, install our first library.
 
@@ -79,7 +73,6 @@ We'll be using jupyter notebooks for the next class. We'll talk about file handl
 
 # Monday March 5th
 6:30 - 8:00 PM
-WOOL_330
 
 We'll talk about tuples, dictionaries and sets. Review our homework assignments and set up to work together while programming in pairs.
 
@@ -90,7 +83,6 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 
 ## Thursday March 8th
 6:30 - 8:00 PM
-WOOL_330
 
 This class will focus on teaming up and pair programming on and we'll end class with a lecture on debugging problems.
 
@@ -101,7 +93,6 @@ This class will focus on teaming up and pair programming on and we'll end class 
 
 ## Monday March 12th
 6:30 - 8:00 PM
-WOOL_330
 
 We'll spend this class diving into how the internet works. This class will also go over git basics. We'll also review our homework assignments as well.
 
@@ -111,7 +102,6 @@ We'll spend this class diving into how the internet works. This class will also 
 
 ## Thursday March 15th
 6:30 - 8:00 PM
-WOOL_330
 
 We're going to be working with live data and get started connecting to APIs.
 
@@ -131,7 +121,6 @@ We'll be learning how to traverse files with python.
 
 ## Thursday March 22nd
 6:30 - 8:00 PM
-WOOL_330
 
 This class will focus on the basics of object oriented programming in python.
 
@@ -141,7 +130,6 @@ This class will focus on the basics of object oriented programming in python.
 
 ## Monday March 26th
 6:30 - 8:00 PM
-WOOL_330
 
 We'll get started writing tests in Python
 
