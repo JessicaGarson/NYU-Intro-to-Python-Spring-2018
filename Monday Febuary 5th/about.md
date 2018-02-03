@@ -41,7 +41,7 @@ Slides for the class are found (here)[].
 
 ## How to Prep for the Next Class
 We'll be focusing on the command line and learning the basics of linux. Below are some recommended resources for you to check out before class Thursday.
-- (Command Line Crash Course)[https://learnpythonthehardway.org/book/appendixa.html]
-- (Linux Tutorial)[https://ryanstutorials.net/linuxtutorial/]
-- (Linux Video Series)[https://www.youtube.com/watch?v=sYwr0HMudRg&list=PLlpCYzlw8-CagGcorCV2DCdnkS9IAU9Ab]
-- (Codecademy's Command Line Class)[https://www.codecademy.com/learn/learn-the-command-line]
+- [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+- [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+- [Linux Video Series](https://www.youtube.com/watch?v=sYwr0HMudRg&list=PLlpCYzlw8-CagGcorCV2DCdnkS9IAU9Ab)
+- [Codecademy's Command Line Class](https://www.codecademy.com/learn/learn-the-command-line)
