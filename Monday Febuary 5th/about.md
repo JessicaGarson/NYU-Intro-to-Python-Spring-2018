@@ -31,7 +31,7 @@ Slides for the class are found (here)[].
 ### How to Prep for Next Class
 7:55 - 8:00
 
-## What We Will Accomplish By the End of Next Class
+## What We Will Accomplish By the End of Class
 - You will have your environment set up to write code in Python3
 - You will write code in markdown
 - Make your first commit on GitHub
