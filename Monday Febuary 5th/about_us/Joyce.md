@@ -2,7 +2,7 @@
 
 I'm a first year master student in NYU, majoring in integrated marketing. Hmm, I'm crazy for coding, I love the sounds when typing on the keyboard.
 
-## Motivation for Being Part of the Class - Why you are here.
+## Motivation for Being Part of the Class 
 I want to become one of the best marketing analyst. Being familiar with python will actually help finding a job.
 
 ## Area of Interest
