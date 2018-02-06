@@ -2,3 +2,7 @@
 - I am looking to learn a new skill
 ## Fun Facts About Myself
 - I am currently writing a fantasy mixed sci-fi novel.
+## Favorite Movie(s)
+- Shawshank Redemption, Titanic, Lord of the Rings Trilogy, Star Wars Trilogy (the originals), Boss Baby, Giant, Gone with the Wind
+## Dream Project
+- Too many to name, but hopefully 
