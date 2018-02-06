@@ -2,7 +2,7 @@
 
 I oversee noncredit and public programming at the NYUSPS Center for Global Affairs.
 
-- Motivation for Being Part of the Class - I am on the hiring committee for our new graduate program in cyber crime and I'd like to have more technical knowledge to help me better evaluate candidate. Also, I've been meaning to learn a programming language for a while so this was a perfect time to do this.
+- Motivation for Being Part of the Class - I am on the hiring committee for our new graduate program in cyber crime and I'd like to have more technical knowledge to help me better evaluate candidates. Also, I've wanted to learn a programming language for a while so this was a perfect time to do this.
 
 - Area of Interest - My dad is a programmer and he's developed some fun skills for his Echo. I'd like to be able to do the same!
 
