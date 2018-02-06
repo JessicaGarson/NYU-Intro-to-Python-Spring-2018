@@ -56,7 +56,7 @@ We'll focus on functions which are the building blocks of programs in python.
 
 We'll focus on lists and loops for this class. We'll spend some time live coding and end the class by writing a program together as a class.
 
-- Show and tell homework number 1
+- Show and tell homework number 2
 - Lists and loops
 - Writing a program as a class
 
@@ -69,14 +69,14 @@ We'll be using jupyter notebooks for the next class. We'll talk about file handl
 - File handling in python
 - Virtual environments
 - Pandas
-- Introduce homework number 2
+- Introduce homework number 3
 
 # Monday March 5th
 6:30 - 8:00 PM
 
 We'll talk about tuples, dictionaries and sets. Review our homework assignments and set up to work together while programming in pairs.
 
-- Homework number 2 show and tell
+- Homework number 3 show and tell
 - Further environment set up
 - Data structures in Python
 - In class activity
@@ -89,7 +89,7 @@ This class will focus on teaming up and pair programming on and we'll end class 
 - Debugging
 - Pair Programming on hack reactor problems
 - Presentation of one problem you solved
-- Introduce homework assignment 3
+- Introduce homework assignment 4
 
 ## Monday March 12th
 6:30 - 8:00 PM
@@ -98,7 +98,6 @@ We'll spend this class diving into how the internet works. This class will also 
 
 - Git basics
 - How the internet works
-- Homework assignment 3 review
 
 ## Thursday March 15th
 6:30 - 8:00 PM
@@ -107,17 +106,15 @@ We're going to be working with live data and get started connecting to APIs.
 
 - Learn about APIs
 - Connect to APIs
-- Introduce homework 4
+- Homework 4 Review
 
 ## Monday March 19th
 6:30 - 8:00 PM
-WOOL_330
 
 We'll be learning how to traverse files with python.
 
 - The OS library
 - In class activity
-- Homework 4 intro
 
 ## Thursday March 22nd
 6:30 - 8:00 PM
