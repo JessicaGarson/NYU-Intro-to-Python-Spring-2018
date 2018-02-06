@@ -20,4 +20,4 @@ Romeo + Juliet
 
 ## Dream Project
 
-I'd like to work on projects that focus on diversity and inclusion in tech.
+I'd like to work on projects that focus on diversity and inclusion in tech. 
