@@ -1,4 +1,4 @@
-#Joyce Yu
+# Joyce Yu
 
 I'm a first year master student in NYU, majoring in integrated marketing. Hmm, I'm crazy for coding, I love the sounds when typing on the keyboard.
 
