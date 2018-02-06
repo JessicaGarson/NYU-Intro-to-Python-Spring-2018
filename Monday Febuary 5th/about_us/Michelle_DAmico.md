@@ -15,5 +15,5 @@ I oversee noncredit and public programming at the NYUSPS Center for Global Affai
 - Big Lebowski
 
 ## Dream Project 
-– Hyperloop
+- Hyperloop
 
