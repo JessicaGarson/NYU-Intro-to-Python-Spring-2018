@@ -19,3 +19,12 @@ Middle school dance rules still, Macs sit with Macs and PCs sit with PCs.
 - Command line basics
 ### 7:30 - 8:00
 - Command line activity
+
+## What We Will Accomplish By the End of Class
+- We will review our last class
+- Learn about how to learn how to code
+- Get introduced to the class project and first assignments
+- Write our first program in python
+- Run our first program in python
+- Learn about command line basics
+- Play around with the command line
