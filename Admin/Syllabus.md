@@ -9,7 +9,6 @@ This is our first class, and we'll spend the majority of the class setting up fo
 
 - Introductions
 - Norms for the class
-- Advice on how to learn how to code
 - Class overview
 - GitHub set up
 - Forking
@@ -21,9 +20,10 @@ This is our first class, and we'll spend the majority of the class setting up fo
 
 We'll get started writing code in python in this class and spend time in the command line getting to know that interface.
 
+- Markdown review
+- Advice on how to learn how to code
 - Writing our first program
 - Running our first program
-- Demystifying jargon
 - Command line basics
 - Command line activity
 - Introduce homework assignment 1
@@ -34,6 +34,7 @@ We'll get started writing code in python in this class and spend time in the com
 
 The focus of this class will be getting to know the basics such as operators, strings and conditional statements.
 
+- Demystifying jargon
 - Operators
 - Data types
 - Strings and conditionals
