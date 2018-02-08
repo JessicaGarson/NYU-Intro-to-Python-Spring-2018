@@ -10,7 +10,7 @@ Adjust the code to say how many characters you have remaining to use, or how man
 ### Bonus
 Twitter recently changed the limit for tweets, refactor your code so that the limit for twitter characters in not hardcoded in if they change the character limit again.
 
-***This assignment is due on Monday February 15th.***
+***This assignment is due on Thursday February 15th.***
 
 ### Resources
 - [Conditionals in Python 3](https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-python-3-2)
