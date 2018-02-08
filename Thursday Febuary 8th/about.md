@@ -22,7 +22,7 @@ Middle school dance rules still, Macs sit with Macs and PCs sit with PCs.
 ### 7:30 - 8:00
 - Command line activity
 
-## What We Will Accomplish By the End of Class
+## What We Will Accomplish By The End of Class
 - We will review our last class
 - Learn about how to learn how to code
 - Get introduced to the class project and first assignments
