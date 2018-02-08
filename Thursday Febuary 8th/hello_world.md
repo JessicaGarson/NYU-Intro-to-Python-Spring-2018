@@ -27,6 +27,6 @@ print("Hello, World!")
 ```
 
 ## Run the File from the Command Line
-```
+```bash
 python hello.py
 ```
