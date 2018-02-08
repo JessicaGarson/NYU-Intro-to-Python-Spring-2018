@@ -5,7 +5,7 @@
 Create a program that measures how many characters are in a sentence. If the sentence is too long for a tweet make sure the program tells you so, if the sentence fits into a tweet let me know as well.
 
 ### Part 2
-After you write that  adjust the code to say how many characters you have remaining to use, or how many you need to trim the sentence by to turn it into a tweet.
+Adjust the code to say how many characters you have remaining to use, or how many you need to trim the sentence by to turn it into a tweet.
 
 ### Bonus
 Twitter recently changed the limit for tweets, refactor your code so that the limit for twitter characters in not hardcoded in if they change the character limit again.
