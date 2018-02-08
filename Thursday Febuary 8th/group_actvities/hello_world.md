@@ -12,7 +12,7 @@ touch hello.py
 ```
 
 PCs:
-```bas
+```bash
 New-Item new_file.txt -type file
 ```
 
