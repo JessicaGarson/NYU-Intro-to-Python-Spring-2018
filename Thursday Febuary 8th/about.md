@@ -32,3 +32,8 @@ Middle school dance rules still, Macs sit with Macs and PCs sit with PCs.
 - Play around with the command line
 
 ## How to Prep for Next Class
+- [Automate the Boring Stuff with Python Chapter 1](https://automatetheboringstuff.com/chapter1/)
+- [Automate the Boring Stuff with Python Chapter 2](https://automatetheboringstuff.com/chapter2/)
+- [Python Strings](https://developers.google.com/edu/python/strings)
+- [How To Do Math in Python 3 with Operators](https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators)
+- [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/conditionals.html)
