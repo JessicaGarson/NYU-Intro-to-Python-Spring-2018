@@ -1,6 +1,6 @@
 # Norms
 - We are all students, we are all teachers
-- Don't be asshamed of asking questions
+- Don't be ashamed of asking questions
 - No cell phones in class
 - Try not to spill your food
 - Jess will come to class early and prepared

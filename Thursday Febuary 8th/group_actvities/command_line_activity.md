@@ -1,5 +1,5 @@
 # Command Line Activity
-In groups of 3 or so go through the following steps.
+In groups of 3 or so go through the following steps:
 
 - Create a new folder from the command line called created_from_the_command_line.
 - Inside the folder create a new file named yo.txt.

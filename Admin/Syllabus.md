@@ -34,7 +34,6 @@ We'll get started writing code in python in this class and spend time in the com
 
 The focus of this class will be getting to know the basics such as operators, strings and conditional statements.
 
-- Demystifying jargon
 - Operators
 - Data types
 - Strings and conditionals
@@ -47,6 +46,7 @@ The focus of this class will be getting to know the basics such as operators, st
 We'll focus on functions which are the building blocks of programs in python.
 
 - Homework number 1 show and tell
+- Demystifying jargon
 - Functions
 - Writing programs and passing variables between functions
 - Re-writing our homework to include functions
