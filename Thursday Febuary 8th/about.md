@@ -1,5 +1,7 @@
 # Thursday February 8th
-Second class! We'll review our activity from last week, hear some advice for learning how to code.
+Second class! We'll review our activity from last week, hear some advice for learning how to code, get started with Python, learn a bit about how to interact with our command line of our computer. We'll also introduce our first homework and final project.
+
+Slides for the class are found [here](http://jessicagarson.com/NYU-Intro-to-Python-Feb-8th/).
 
 ## Seating
 Middle school dance rules still, Macs sit with Macs and PCs sit with PCs.
@@ -28,3 +30,5 @@ Middle school dance rules still, Macs sit with Macs and PCs sit with PCs.
 - Run our first program in python
 - Learn about command line basics
 - Play around with the command line
+
+## How to Prep for Next Class
