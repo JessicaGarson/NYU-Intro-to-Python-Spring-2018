@@ -1,5 +1,5 @@
 # Monday February 12th
-For this class we're going to dive into python and learn about the building blocks of most programs.
+For this class we're going to dive into python and learn about the building blocks of most programs. Slides are found [here](http://jessicagarson.com/NYU-Intro-to-Python-Feb-12).
 
 ## Agenda
 ### 6:30 - 6:45
