@@ -17,3 +17,6 @@ We're going dive into the basics of Python. We'll have a better understanding of
 - Make sure you email me your homework before the start of class.
 - [Python Functions](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
 - [Your First Python Program](http://www.diveintopython3.net/your-first-python-program.html#declaringfunctions)
+
+## Come See Me DJ Tomorrow Night
+I'll be coding tomorrow at [Alaphaville in Brooklyn](https://www.facebook.com/events/420515341701539/).
