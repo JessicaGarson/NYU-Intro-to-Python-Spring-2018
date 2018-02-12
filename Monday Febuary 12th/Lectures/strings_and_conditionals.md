@@ -229,7 +229,7 @@ else:
 ```
 
 ```python
-if space > 20:
+if space < 20:
   print('We still have space left')
 elif space == 20:
   print('We are just a capacity')
