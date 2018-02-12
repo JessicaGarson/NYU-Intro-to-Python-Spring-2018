@@ -28,6 +28,7 @@ git config --global email jessica.garson@gmail.com
 git clone https://github.com/JessicaGarson/sample_to_be_forked.git
 cd sample_to_be_forked
 git remote add upstream https://github.com/jlg17nyu/sample_to_be_forked.git
+git fetch upstream
 git checkout master
 git merge upstream/master
 git push
