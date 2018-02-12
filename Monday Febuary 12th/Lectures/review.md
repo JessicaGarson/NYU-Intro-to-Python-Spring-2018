@@ -36,7 +36,7 @@ git push
 
 ## A Note on 2 Factor Authentication
 If you are using 2 factor authentication for GitHub (which you should be). If you are using HTTPS Git, instead of entering your password, enter a personal access token. These can be created by going to your
-(personal access tokens page)[https://github.com/settings/tokens].
+[personal access tokens page](https://github.com/settings/tokens).
 
 ## How to join the Python IRC Channel
 Directions on joining the python IRC channel are (here)[https://www.python.org/community/irc/].
