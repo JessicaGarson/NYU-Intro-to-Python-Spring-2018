@@ -229,6 +229,7 @@ else:
 ```
 
 ```python
+space = 19
 if space < 20:
   print('We still have space left')
 elif space == 20:
