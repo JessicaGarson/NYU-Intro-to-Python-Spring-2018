@@ -32,7 +32,7 @@ Exponents look like this:
 
 ## Data Types
 There are three data types in Python
-- Integers such as 1, 23, -32, 24, 234
+- Intergers such as 1, 23, -32, 24, 234
 - Floating point numbers or floats such as 1.23, 23.23, -4.32, 22.6
 - Strings such as 'rwewe', '2si', 'hello', 'anything really'
 
