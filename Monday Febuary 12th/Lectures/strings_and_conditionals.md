@@ -6,7 +6,7 @@ The interactive shell, allows you to play around and experiment. Much of testing
 Our text editor Atom, is where we write complete code.
 
 ## Expressions
-This is what's known as expression. This is the most basic kind of programming instruction in the language. Expressions consist of values (such as 2) and operators (such as +), and they can always evaluate (that is, reduce) down to a single value.
+Expressions are most basic kind of programming instruction in the language. Expressions consist of values (such as 2) and operators (such as +), and they can always evaluate (that is, reduce) down to a single value.
 ```python
 2 + 2
 5 - 3
@@ -104,7 +104,7 @@ name[-4:-1]
 ```
 
 ## String formatting
-I like to think of this like madlibs where we are creating sentences that we can insert variables into.
+I like to think of this like mad libs where we are creating sentences that we can insert variables into.
 
 ```python
 hi = 'Hi my name is {}'.format(name)
@@ -216,8 +216,7 @@ else:
 ```
 
 ## Elif
-If there is another condition
-that is met than do something else.
+If there is another condition that is met than do something else.
 
 ```
 if condition:
