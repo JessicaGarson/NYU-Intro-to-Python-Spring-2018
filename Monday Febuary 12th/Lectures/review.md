@@ -20,6 +20,8 @@ cd ~
 Atom . only works when atom is open on your machine. Opening via atom is alright. We'll demo both methods.
 
 ## How to Sync a Fork
+It's okay to be having trouble with git right now. We aren't going to dig deep into this until March 12th (a month from today).
+
 ```bash
 git config --global user.name JessicaGarson
 git config --global email jessica.garson@gmail.com
@@ -34,5 +36,3 @@ git push
 ## A Note on 2 Factor Authentication
 If you are using 2 factor authentication for GitHub (which you should be). If you are using HTTPS Git, instead of entering your password, enter a personal access token. These can be created by going to your
 personal access tokens page [https://github.com/settings/tokens].
-
-It's okay to be having trouble with git right now. We aren't going to dig deep into this until March 12th (a month from today).
