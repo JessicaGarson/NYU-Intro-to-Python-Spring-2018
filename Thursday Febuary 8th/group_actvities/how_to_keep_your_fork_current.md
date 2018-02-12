@@ -17,6 +17,9 @@ git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
 cd into/cloned/fork-repo
 git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
 git fetch upstream
+git checkout master
+git merge/upstream master
+git push
 ```
 
 ## 3. Updating your fork from original repo to keep up with their changes:

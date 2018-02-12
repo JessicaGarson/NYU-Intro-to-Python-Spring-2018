@@ -36,8 +36,9 @@ The focus of this class will be getting to know the basics such as operators, st
 
 - Operators
 - Data types
-- Strings and conditionals
+- Strings
 - Raw input
+- Conditionals
 - Strings and conditionals activity
 
 ## Thursday February 15th
@@ -46,7 +47,7 @@ The focus of this class will be getting to know the basics such as operators, st
 We'll focus on functions which are the building blocks of programs in python.
 
 - Homework number 1 show and tell
-- Demystifying jargon
+- So what exactly is Python? 
 - Functions
 - Writing programs and passing variables between functions
 - Re-writing our homework to include functions
