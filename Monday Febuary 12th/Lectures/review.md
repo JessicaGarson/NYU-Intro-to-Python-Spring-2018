@@ -24,7 +24,7 @@ It's okay to be having trouble with git right now. We aren't going to dig deep i
 
 ```bash
 git config --global user.name JessicaGarson
-git config --global email jessica.garson@gmail.com
+git config --global user.email jessica.garson@gmail.com
 git clone https://github.com/JessicaGarson/sample_to_be_forked.git
 cd sample_to_be_forked
 git remote add upstream https://github.com/jlg17nyu/sample_to_be_forked.git
