@@ -39,4 +39,4 @@ If you are using 2 factor authentication for GitHub (which you should be). If yo
 [personal access tokens page](https://github.com/settings/tokens).
 
 ## How to join the Python IRC Channel
-Directions on joining the python IRC channel are (here)[https://www.python.org/community/irc/].
+Directions on joining the python IRC channel are [here](https://www.python.org/community/irc/).
