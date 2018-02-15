@@ -174,7 +174,7 @@ greeting(time=time)
 
 Code in the global scope cannot use any local variables. However, a local scope can access global variables. Code in a function’s local scope cannot use variables in any other local scope.
 
-You can use the same name for different variables if they are in different scopes. That is, there can be a local variable named spam and a global variable also named name. If there is a assignment statement inside of function than python assumes it is a local variable and if there one it is a global variable.
+You can use the same name for different variables if they are in different scopes. If there is a assignment statement inside of function, python will assumes it is a local variable. If there is not an assignment statement python assumes it is a global variable.
 
 You can also define a variable as global inside your function.
 
