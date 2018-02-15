@@ -1,7 +1,7 @@
 # Rewriting with Functions
 Work in groups of 3
 
-## Start with the Homework
+## Start with the homework
 Let's rewrite so that all the code runs with functions and a main function.
 
 ## If you finish early
