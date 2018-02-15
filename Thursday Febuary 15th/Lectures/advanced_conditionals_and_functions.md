@@ -54,13 +54,12 @@ print('hello world!')
 ## General Advice
 If you are repeating yourself, you are likely doing it wrong.
 
-# Functions
+## Functions
 We've already been working with them but we can create our own!
 
 ```python
 tweet = 'My Professor @JessicaGarson is so awesome'
 len(tweet)
-tweet_length = len(tweet)
 print(tweet)
 input("What's your favorite video game? ")
 ```
@@ -159,7 +158,7 @@ print(plus_one(number=4))
 ```
 
 ## Local and Global Scope
-Variables assigned in a function are only local to that function. Variables assigned outside of all functions exist in the global scope. 
+Variables assigned in a function are only local to that function. Variables assigned outside of all functions exist in the global scope. You can have variables named the same thing in different functions that are different variables.
 
 ```python
 import datetime
@@ -170,14 +169,9 @@ def greeting(time):
   name = 'Jess' # local and temporary
   print('Hello {}, the time is {}'.format(name, time))
 
+# print(name)
 greeting(time=time)
 ```
-
-Code in the global scope cannot use any local variables. However, a local scope can access global variables. Code in a function’s local scope cannot use variables in any other local scope.
-
-You can use the same name for different variables if they are in different scopes. If there is a assignment statement inside of function, python will assumes it is a local variable. If there is not an assignment statement python assumes it is a global variable.
-
-You can also define a variable as global inside your function.
 
 ```python
 import datetime
@@ -195,6 +189,7 @@ print(name)
 greeting(time=time)
 print(name)
 ```
+## Why Not Have Everything Be Global
 
 This allows us to separate out the code so that is easier for debugging. So if something is going wrong you can take a look at the function, instead of looking through the entire program.
 

@@ -54,8 +54,9 @@ We'll focus on functions which are the building blocks of programs in python.
 - Introduce homework 2
 
 ## Thursday February 22nd
-6:30 - 8:00pm
-TBD
+
+- Intro to Datebases
+- Debugging
 
 ## Monday February 26th
 6:30 - 8:00pm
@@ -92,7 +93,6 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 
 This class will focus on teaming up and pair programming on and we'll end class with a lecture on debugging problems.
 
-- Debugging
 - Pair Programming on hack reactor problems
 - Presentation of one problem you solved
 - Introduce homework assignment 4

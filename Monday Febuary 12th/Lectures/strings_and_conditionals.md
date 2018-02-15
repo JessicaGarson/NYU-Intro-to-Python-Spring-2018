@@ -200,7 +200,7 @@ The if statement evaluates whether a statement is true or false, and run code on
 
 ```python
 space = 15
-if space > 20:
+if space < 20:
   print('We still have spaces left')
 ```
 
@@ -209,7 +209,7 @@ If none of the conditions meet. Than do this.
 ```python
 space = 21
 
-if space > 20:
+if space < 20:
   print('We still have spaces left')
 else:
   print('Sorry, we are full')
