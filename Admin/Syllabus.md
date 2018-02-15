@@ -53,6 +53,10 @@ We'll focus on functions which are the building blocks of programs in python.
 - Re-writing our homework to include functions
 - Introduce homework 2
 
+## Thursday February 22nd
+6:30 - 8:00pm
+TBD
+
 ## Monday February 26th
 6:30 - 8:00pm
 
