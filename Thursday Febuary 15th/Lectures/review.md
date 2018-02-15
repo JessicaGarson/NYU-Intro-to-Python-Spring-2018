@@ -65,7 +65,7 @@ else:
 ## Python 2 instead of Python 3
 Some students had issues of having trouble with needing to type python3.6 instead of python. To correct this [I recommend setting up alias for it](https://stackoverflow.com/questions/18425379/how-to-set-pythons-default-version-to-3-3-on-os-x).
 
-## Someone asked about breaking up long lines
+## Breaking Up Long Lines
 You can use \ to do so like this:
 
 ```python
