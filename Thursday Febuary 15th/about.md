@@ -1,7 +1,7 @@
 # Thursday February 15th
 We'll get to take a look at how other people write code by checking out our homework. We'll come back together to review our last class and discuss advanced conditionals. We'll cover functions and than re-write our code from last week with functions.
 
-Slides for this class are found (here)[].
+Slides for this class are found (here)[http://jessicagarson.com/NYU-Intro-to-Python-Feb-15/].
 
 ## Agenda
 ### 6:30 - 6:45
@@ -18,10 +18,4 @@ Rewriting Your Code with Functions
 We'll get started with reviewing our homework! Break up into groups of 5 - 6 and go around and discuss how you solved the homework assignment.
 
 ## How to Prep For Next Class
-We have another homework assignment that has been posted in assignments.
-
-Here is some reading to keep you current for the next class:
-
-- [Loops Python Tutorial](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
-- [Lists - Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)
-- [Lists Dive into Python 3](http://www.diveintopython3.net/native-datatypes.html#lists)
+We have another homework assignment that has been posted in assignments. For the next class, you will not need to prep but I will make sure to add a resources folder. So you have a good idea of where to find good resources.
