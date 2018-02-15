@@ -216,5 +216,4 @@ if __name__ == '__main__':
 ```
 
 ## Your Functions They Do Too Much
-
 To make your code more reusable and less error prone. Try to make it so your functions only do one thing at a time. This will allow your code to be more testable in the future.
