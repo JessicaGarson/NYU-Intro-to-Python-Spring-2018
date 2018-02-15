@@ -64,7 +64,7 @@ print(tweet)
 input("What's your favorite video game? ")
 ```
 
-## So What are Functions
+## So What Are Functions
 They are like a mini program inside of your program that contain inside reusable code. They are only run when they are called and they prevent errors and bugs in our code by avoiding duplication.
 
 ## Let's Write a Function
@@ -148,7 +148,7 @@ print(result)
 ```
 
 ## Docstrings
-Docstrings help us document what the code does
+Docstrings help us document what the code does.
 ```python
 def plus_one(number):
   """Adds one to the number"""
@@ -158,7 +158,7 @@ print(plus_one(number=4))
 ```
 
 ## Local and Global Scope
-Variables assigned in a function are only local to that function. Variables assigned outside of all functions exist in the global scope. A
+Variables assigned in a function are only local to that function. Variables assigned outside of all functions exist in the global scope. 
 
 ```python
 import datetime
@@ -219,6 +219,6 @@ if __name__ == '__main__':
   # hello()
 ```
 
-## Common Pitfall - Your Functions They Do Too Much
+## Your Functions They Do Too Much
 
 To make your code more reusable and less error prone. Try to make it so your functions only do one thing at a time. This will allow your code to be more testable in the future.
