@@ -1,7 +1,7 @@
 # Thursday February 15th
 We'll get to take a look at how other people write code by checking out our homework. We'll come back together to review our last class and discuss advanced conditionals. We'll cover functions and than re-write our code from last week with functions.
 
-Slides for this class are found (here)[http://jessicagarson.com/NYU-Intro-to-Python-Feb-15/].
+Slides for this class are found [here](http://jessicagarson.com/NYU-Intro-to-Python-Feb-15/).
 
 ## Agenda
 ### 6:30 - 6:45
