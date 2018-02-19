@@ -8,7 +8,7 @@ Create a program that measures how many characters are in a sentence. If the sen
 Adjust the code to say how many characters you have remaining to use, or how many you need to trim the sentence by to turn it into a tweet.
 
 ### Bonus
-Twitter recently changed the limit for tweets, refactor your code so that the limit for twitter characters in not hardcoded in if they change the character limit again.
+Twitter recently changed the limit for tweets, refactor your code so that the limit for twitter characters is not hardcoded in if they change the character limit again.
 
 ***This assignment is due on Thursday February 15th.***
 
