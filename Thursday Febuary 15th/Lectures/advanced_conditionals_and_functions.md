@@ -60,6 +60,7 @@ We've already been working with them but we can create our own!
 ```python
 tweet = 'My Professor @JessicaGarson is so awesome'
 len(tweet)
+tweet_length = len(tweet)
 print(tweet)
 input("What's your favorite video game? ")
 ```
