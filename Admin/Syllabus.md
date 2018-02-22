@@ -54,9 +54,13 @@ We'll focus on functions which are the building blocks of programs in python.
 - Introduce homework 2
 
 ## Thursday February 22nd
+6:30 - 8:00pm
 
-- Intro to Datebases
-- Debugging
+We're going to make sure we have the basics of functions completely down and have some time to practice writing code with functions.
+
+- Review of functions
+- Scopes
+- Practice
 
 ## Monday February 26th
 6:30 - 8:00pm
@@ -64,6 +68,7 @@ We'll focus on functions which are the building blocks of programs in python.
 We'll focus on lists and loops for this class. We'll spend some time live coding and end the class by writing a program together as a class.
 
 - Show and tell homework number 2
+- Introduce homework number 3
 - Lists and loops
 - Writing a program as a class
 
@@ -76,7 +81,6 @@ We'll be using jupyter notebooks for the next class. We'll talk about file handl
 - File handling in python
 - Virtual environments
 - Pandas
-- Introduce homework number 3
 
 # Monday March 5th
 6:30 - 8:00 PM
@@ -95,15 +99,17 @@ This class will focus on teaming up and pair programming on and we'll end class 
 
 - Pair Programming on hack reactor problems
 - Presentation of one problem you solved
-- Introduce homework assignment 4
 
 ## Monday March 12th
 6:30 - 8:00 PM
 
 We'll spend this class diving into how the internet works. This class will also go over git basics. We'll also review our homework assignments as well.
 
+- Homework number 3 show and tell
 - Git basics
 - How the internet works
+- Introduce homework assignment 4
+
 
 ## Thursday March 15th
 6:30 - 8:00 PM
