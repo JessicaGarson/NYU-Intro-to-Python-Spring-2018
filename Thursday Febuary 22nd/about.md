@@ -43,7 +43,25 @@ else:
     do another thing
 ```
 
-## How to Prep for the Next Class 
+## A Note on the Homework
+The homework is due Monday at 6:30pm. Please email me a .py file attached to an email.
+
+Since a few folks have asked about the make tags assignment. I figured I'd go over it.
+
+Your job is to create a function that looks something like this:
+```
+def make_tags():
+  # your code here
+  return formatted with tags around it
+```
+
+So if you run make_tags('i', 'Yay') you will get the following:
+```python
+make_tags('i', 'Yay')
+# result would be <i>Yay</i>
+```
+
+## How to Prep for the Next Class
 - [Loops Python Tutorial](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
 - [Lists - Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)
 - [Lists Dive into Python 3](http://www.diveintopython3.net/native-datatypes.html#lists)
