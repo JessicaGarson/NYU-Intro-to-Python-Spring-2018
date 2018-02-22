@@ -1,8 +1,8 @@
 def square(x):  # Define the function
     """Returns the square of a number"""  # Docstring
-    y = x ** 2  # body
-    return y  # return
+    y = x ** 2  # Body
+    return y  # Return Statement
 
 
 result = square(x=3)  # Call the function
-print('{} is the square of {}'.format(result, x))
+print(result)  # Print out the result
