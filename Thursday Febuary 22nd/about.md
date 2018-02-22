@@ -1,7 +1,7 @@
 # Thursday February
 We're going to review functions and practice writing functions.
 
-Slides are found [here]().
+Slides are found [here](http://jessicagarson.com/NYU-Intro-to-Python-Feb-22/#/).
 
 ## Agenda
 ### 6:30 - 6:35
@@ -42,3 +42,8 @@ elif another_condition:
 else:
     do another thing
 ```
+
+## How to Prep for the Next Class 
+- [Loops Python Tutorial](https://www.datacamp.com/community/tutorials/loops-python-tutorial)
+- [Lists - Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)
+- [Lists Dive into Python 3](http://www.diveintopython3.net/native-datatypes.html#lists)
