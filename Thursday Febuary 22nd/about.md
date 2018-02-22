@@ -50,7 +50,7 @@ Since a few folks have asked about the make tags assignment. I figured I'd go ov
 
 Your job is to create a function that looks something like this:
 ```
-def make_tags():
+def make_tags(tag, word):
   # your code here
   return formatted with tags around it
 ```
