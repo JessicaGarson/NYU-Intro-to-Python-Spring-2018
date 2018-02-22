@@ -1,4 +1,4 @@
-# Peanut Butter Jelly time
+# Peanut Butter Jelly Time
 
 Today we're going to make some peanut butter and jelly sandwiches using functions.
 
