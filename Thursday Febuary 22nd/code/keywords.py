@@ -2,5 +2,5 @@ def plus(a, b):
     return a + b
 
 
-plus(2, 3)
-plus(a=1, b=2)
+print(plus(2, 3))
+print(plus(a=1, b=2))

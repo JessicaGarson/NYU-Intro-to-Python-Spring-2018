@@ -17,4 +17,4 @@ def main():
 
 # Execute main() function
 if __name__ == '__main__':
-    main()
+    main  # Code to run when this is the main program here.

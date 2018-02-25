@@ -13,7 +13,7 @@ def twoplus():
     return a
 
 
-print(a)
-print(oneplus())
-print(twoplus())
-print(a)
+print(a)  # 6
+print(oneplus())  # 7
+print(twoplus())  # 9
+print(a)  # 9

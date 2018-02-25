@@ -1,4 +1,8 @@
+name = 'Kelly'
+
+
 def hello():
+    global name
     name = 'Jess'
     return 'Hello {}'.format(name)
 
@@ -8,5 +12,7 @@ def hi():
     return 'Hi {}'.format(name)
 
 
-print(hi())
-print(hello())
+print(name)  # Kelly
+print(hello())  # Hello Jess
+print(name)  # Hello Jess
+print(hi())  # Hi Alex

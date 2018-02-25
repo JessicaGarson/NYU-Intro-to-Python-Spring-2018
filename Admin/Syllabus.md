@@ -75,12 +75,11 @@ We'll focus on lists and loops for this class. We'll spend some time live coding
 ## Thursday March 1st
 6:30 - 8:00 PM
 
-We'll be using jupyter notebooks for the next class. We'll talk about file handling, virtual environments, install our first library.
+This class will focus on teaming up and pair programming on and we'll end class with a lecture on debugging problems.
 
-- Jupyter notebooks introduction
-- File handling in python
-- Virtual environments
-- Pandas
+- Pair programming on hack reactor problems
+- Presentation of one problem you solved
+- Debugging hard problems
 
 # Monday March 5th
 6:30 - 8:00 PM
@@ -95,10 +94,12 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 ## Thursday March 8th
 6:30 - 8:00 PM
 
-This class will focus on teaming up and pair programming on and we'll end class with a lecture on debugging problems.
+We'll be using jupyter notebooks for the next class. We'll talk about file handling, virtual environments, install our first library.
 
-- Pair Programming on hack reactor problems
-- Presentation of one problem you solved
+- Jupyter notebooks introduction
+- File handling in python
+- Virtual environments
+- Pandas
 
 ## Monday March 12th
 6:30 - 8:00 PM
