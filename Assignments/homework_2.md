@@ -16,4 +16,5 @@ Write a program where a user enters a number and the program will tell them if t
 ## Part 3: Sleep In Calculator
 Write a program that let's you know if you can sleep in. If the day is a weekday, let the user know they can't sleep in and have to go to work. If the day is a weekend let them know they can sleep in. 
 
+Please submit this via email with .py file attached.
 ***This assignment is due Monday February 26th***
