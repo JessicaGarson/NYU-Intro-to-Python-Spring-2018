@@ -1,6 +1,7 @@
 # Lists
 What are they?
-- Lists are containers that can hold multiple pieces of information. - Lists are commonly used to hold strings (ex: list of attendees’ names) or numbers (ex: number of attendees for each class).
+- Lists are containers that can hold multiple pieces of information.
+- Lists are commonly used to hold strings (ex: list of attendees’ names) or numbers (ex: number of attendees for each class).
 - Sometimes called arrays.
 
 ## This would be annoying
