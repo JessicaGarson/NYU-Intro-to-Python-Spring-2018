@@ -1,6 +1,7 @@
 # Lists
 What are they?
 - Lists are containers that can hold multiple pieces of information. - Lists are commonly used to hold strings (ex: list of attendees’ names) or numbers (ex: number of attendees for each class).
+- Sometimes called arrays.
 
 ## This would be annoying
 ```python
@@ -59,6 +60,16 @@ attendees.pop()
 print(attendees)
 ```
 
+## How do you sort a list?
+```python
+votes = [5, 4, 6, 3, 9, 1, 2]
+votes.sort()
+print(votes)
+
+attendees.sort()
+print(attendees)
+```
+
 ## What if I don't want the last list item but another place?
 We can specify the index(the slicing number) to remove whatever attendee we'd want.
 ```python
@@ -70,4 +81,22 @@ print(attendees)
 ```python
 attendees.extend(['Daniel', 'Joyce', 'Kelly'])
 print(attendees)
+```
+
+## We can also reverse a list
+```python
+print(attendees.reverse())
+```
+
+## What about removing more than one item?
+Items can be removed from lists by using the del statement. In the same way as it can with .pop(). This will delete the value at the index number you specify within a list but you can also use a range.
+```python
+del attendees[0:2]
+print(attendees)
+```
+
+## Combining 2 lists together
+We can use the + operator to add lists together.
+```python
+print(votes + attendees)
 ```
