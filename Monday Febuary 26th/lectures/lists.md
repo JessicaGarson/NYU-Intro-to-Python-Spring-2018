@@ -94,7 +94,7 @@ You can use .split() to take things from a string and turn it into a list.
 ```python
 fruits = 'Apples, Oranges, Pears, Bananas'
 fruit_list = fruits.split(',')
-
+```
 
 ## What about removing more than one item?
 Items can be removed from lists by using the del statement. In the same way as it can with .pop(). This will delete the value at the index number you specify within a list but you can also use a range.
