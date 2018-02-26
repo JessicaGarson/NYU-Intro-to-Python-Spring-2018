@@ -77,7 +77,7 @@ We'll focus on lists and loops for this class. We'll spend some time live coding
 This class will focus on teaming up and pair programming on and we'll end class with a lecture on debugging problems.
 
 - Review
-- Pair programming on hack reactor problems
+- Pair programming on HackerRank problems
 - Presentation of one problem you solved
 - Debugging hard problems
 - Homework 3 Introduce
