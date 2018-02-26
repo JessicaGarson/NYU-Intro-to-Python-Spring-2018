@@ -1,6 +1,8 @@
 # Monday February 26th
 Today we're going to get started with the data structure lists. After we feel good about lists we're going to dive into loops, which allows us to be insanely productive.
 
+Slides are found [here](http://jessicagarson.com/NYU-Intro-to-Python-Feb-26/)
+
 ## Agenda
 ### 6:30 - 6:45
 Homework Review

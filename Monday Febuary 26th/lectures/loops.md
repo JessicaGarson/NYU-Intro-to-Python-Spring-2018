@@ -2,7 +2,7 @@
 Using loops we can automate and repeat tasks in a very short amount of time.
 
 # For Loop
-A for loop lets you use each item in a single list one at a time, which is great for performing actions a certain number of times.
+A for loop lets you use each item one at a time, which is great for performing actions a certain number of times.
 
 With for loops the repeated execution of code based on a loop counter or loop variable. This means that for loops are used most often when the number of iterations is known before entering the loop.
 
@@ -112,3 +112,23 @@ for week in range(1, 5):
 The cousins of conditionals.
 
 You can think of the while loop as a repeating conditional statement. After an if statement, the program continues to execute code, but in a while loop, the program jumps back to the start of the while statement until the condition is False.
+
+```
+while a condition is True:
+  do something
+```
+
+```python
+bread = 35
+while bread >= 2:
+    print("I'm making a sandwich")
+    bread = bread - 2
+```
+
+```python
+password = ''
+
+while password != 'jessisthebest123!':
+    print('What is the password?')
+    password = input()
+```
