@@ -103,6 +103,7 @@ We'll be using jupyter notebooks for the next class. We'll talk about file handl
 
 ## Monday March 12th
 6:30 - 8:00 PM
+Special guest: Reed Spool
 
 We'll spend this class diving into how the internet works. This class will also go over git basics. We'll also review our homework assignments as well.
 
