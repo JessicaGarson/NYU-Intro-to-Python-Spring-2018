@@ -1,4 +1,5 @@
 # Advanced Loops
+We're going to dig into some advanced concepts with loops today.
 
 ## Enumerate
 Enumerate allows us to count when we use it with a list.
@@ -73,4 +74,18 @@ for number in range(10):
     print('Number is {}'.format(number))
 
 print('Out of loop')
+```
+
+## +=
+a += b is essentially the same as a = a + b, except that:
+
+`+` always returns a newly allocated object, but += should (but doesn't have to) modify the object in-place if it's list or dict.
+
+In a = a + b, a is evaluated twice.
+
+```python
+count = 0
+while count < 5:
+    print(count)
+    count += 1
 ```

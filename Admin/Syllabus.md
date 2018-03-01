@@ -96,6 +96,7 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 
 We'll be using jupyter notebooks for the next class. We'll talk about file handling, virtual environments, install our first library.
 
+- Git basics
 - Jupyter notebooks introduction
 - File handling in python
 - Virtual environments
@@ -109,7 +110,6 @@ We'll spend this class diving into how the internet works. This class will also 
 
 - Homework number 3 show and tell
 - How the internet works
-- Git basics
 - Homework number 4 introduce
 
 ## Thursday March 15th
