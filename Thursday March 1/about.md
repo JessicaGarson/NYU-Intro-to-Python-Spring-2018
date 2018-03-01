@@ -1,5 +1,5 @@
 # Thursday March 1st
-We're going to take some today and make sure we have our basic concepts covered before we move forward to more difficult content.
+We're going to take some today and make sure we have our basic concepts covered before we move forward to more difficult content. Slides are found [here](http://jessicagarson.com/NYU-Intro-to-Python-March-1/)
 
 ## Agenda
 ### 6:30 - 6:45

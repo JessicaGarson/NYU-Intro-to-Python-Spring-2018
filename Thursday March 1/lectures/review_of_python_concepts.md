@@ -14,6 +14,12 @@ We've been moving pretty quickly as a class so far. So let's take a step back an
 - String methods allow you to do special actions on strings (find, replace, count, lowercase, etc)
 - .format() is the string method we'll use most often.
 
+## Integers
+Numbers like 1, 2, 3, 4, or 1341
+
+## Floats
+Floating point numbers like 3.14, 3423.2342, 32.34
+
 ## Conditionals
 - Conditionals allow you to change the behavior of your program.
 - Program behavior is based on your variables.
@@ -44,7 +50,7 @@ else:
 - Using loops we can automate and repeat tasks in a very short amount of time.
 - A for loop lets you use each item one at a time, which is great for performing actions a certain number of times.
 - While loops are the cousins of conditionals.
-- While loops are repeating conditional statements. After an if statement, the program continues to execute code, but in a while loop, the program jumps back to the start of the while statement until the condition is False. Think about Jess and Hamid and the chalk. 
+- While loops are repeating conditional statements. After an if statement, the program continues to execute code, but in a while loop, the program jumps back to the start of the while statement until the condition is False. Think about Jess and Hamid and the chalk.
 
 ## Activity
 Write down one thing you have learned so far. Share it with a partner.

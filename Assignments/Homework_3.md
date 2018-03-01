@@ -27,14 +27,14 @@ The output of your file should look something like this:
 
 ```html
 <select>
- 	 <option value="AK">Alaskas</option>
- 	 <option value="AZ">Arizonas</option>
- 	 <option value="MD">Marylands</option>
+ 	 <option value="AK">Alaska</option>
+ 	 <option value="AZ">Arizona</option>
+ 	 <option value="MD">Maryland</option>
 </select>
 ```
 
 ## Save it to a File
-Once your program runs the way you want it to. We'll cover file handling in a more pythonic way shortly as a class. 
+Once your program runs the way you want it to. We'll cover file handling in a more pythonic way shortly as a class.
 
 ```bash
 python states.py > states.html
