@@ -89,6 +89,7 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 
 - Further environment set up
 - Data structures in Python
+- Git basics
 - In class activity
 
 ## Thursday March 8th
@@ -96,11 +97,11 @@ We'll talk about tuples, dictionaries and sets. Review our homework assignments 
 
 We'll be using jupyter notebooks for the next class. We'll talk about file handling, virtual environments, install our first library.
 
-- Git basics
+- Virtual environments
 - Jupyter notebooks introduction
 - File handling in python
-- Virtual environments
 - Pandas
+- Homework 3 show and tell 
 
 ## Monday March 12th
 6:30 - 8:00 PM
@@ -108,7 +109,6 @@ Special guest: Reed Spool
 
 We'll spend this class diving into how the internet works. This class will also go over git basics. We'll also review our homework assignments as well.
 
-- Homework number 3 show and tell
 - How the internet works
 - Homework number 4 introduce
 

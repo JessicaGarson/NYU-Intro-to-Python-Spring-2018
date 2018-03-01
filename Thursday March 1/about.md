@@ -16,7 +16,7 @@ Debugging Hard Problems
 [HackerRank](https://www.hackerrank.com) is a site that has programming challenges. Many skills tests for interviews use programs inspired by these sorts of problems.
 
 ## How to Prep for the Next Class
-[Tuples](https://www.digitalocean.com/community/tutorials/understanding-tuples-in-python-3)
-[Dictionaries](https://www.digitalocean.com/community/tutorials/understanding-dictionaries-in-python-3)
-[Chapter 2 Dive Into Python 3](http://www.diveintopython3.net/native-datatypes.html)
-[Chapter 4 Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)
+-[Tuples](https://www.digitalocean.com/community/tutorials/understanding-tuples-in-python-3)
+-[Dictionaries](https://www.digitalocean.com/community/tutorials/understanding-dictionaries-in-python-3)
+-[Chapter 2 Dive Into Python 3](http://www.diveintopython3.net/native-datatypes.html)
+-[Chapter 4 Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)

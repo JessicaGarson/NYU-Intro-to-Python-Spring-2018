@@ -34,6 +34,12 @@ The output of your file should look something like this:
 ```
 
 ## Save it to a File
-Once your program runs the way you want it to. Make sure you save it to a file. 
+Once your program runs the way you want it to. We'll cover file handling in a more pythonic way shortly as a class. 
+
+```bash
+python states.py > states.html
+```
+
+If this isn't working for you can cut and past your output into a file called states.html.
 
 ***This assignment is due Thursday March 8th***
