@@ -1,5 +1,5 @@
 # Tuples
-Tuples are immutable. Meaning they are immutable, or unchangeable, ordered sequence of elements. While they look similar to lists, the difference is you can't change these.
+Tuples are immutable. Meaning they are an unchangeable, ordered sequence of elements. While they look similar to lists, the difference is you can't change these.
 
 ## So when would I use tuples?
 We use tuples when you don't want things to be changed. Because these can't be changed in the same was list they are considered faster from an optimization perspective.
