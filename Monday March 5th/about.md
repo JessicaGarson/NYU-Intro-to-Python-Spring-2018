@@ -4,6 +4,9 @@ Today we're going to be digging into data structures in python.
 ## No slides today
 Since today is going to be mostly lecture and an activity at the end there is no slides.
 
+## Note on grading 
+Still on going. Sorry for any delay here. 
+
 ## Agenda
 ### 6:30 - 6:45
 Tuples
