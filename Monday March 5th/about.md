@@ -1,8 +1,8 @@
 # Monday March 5th
 Today we're going to be digging into data structures in python.
 
-## No slides today
-Since today is going to be mostly lecture and an activity at the end there is no slides.
+## Slides
+We do have [slides](https://github.com/JessicaGarson/NYU-Intro-to-Python-Spring-2018)
 
 ## Note on grading 
 Still on going. Sorry for any delay here. 
