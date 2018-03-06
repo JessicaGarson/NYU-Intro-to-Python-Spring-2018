@@ -1,6 +1,6 @@
-handles = {'Michael': 'michaelshore93', 'Daniel': 'danielrein', 'Andrew': 'andyschneider85'}
-
-# print(handles)
+handles = {'Michael': 'michaelshore93', 'Sushi', 'Daniel': 'danielrein', 'nothing', 'Andrew': 'andyschneider85', 'Pizza'}
+#
+print(handles)
 #
 # print(handles['Daniel'])
 #
@@ -18,13 +18,13 @@ handles = {'Michael': 'michaelshore93', 'Daniel': 'danielrein', 'Andrew': 'andys
 #
 # for key, value in handles.items():
 #     print('{} is the key for the value {}'.format(key, value))
-#
+# #
 # for name in sorted(handles.keys()):
 #     print(name)
 #
 # handles['Alex'] = 'alexng89'
 # print(handles)
-#
+
 # handles.update({'Alex': 'newhandle'})
 # print(handles)
 #

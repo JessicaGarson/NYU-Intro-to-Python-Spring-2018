@@ -15,12 +15,26 @@ schools = {
     "type": "Feature"
 }
 
+
 # Question 1:  How can we get a dictionary with the key of "coordinates" and a value containing a list of two decimal numbers?
+
+geometry = schools['geometry']['coordinates']
+print(geometry)
+print(coordinates)
+address = schools['properties']['address']
+print(address)
 
 # Question 2: How can we get address of the school?
 
 # Question 3: How can we get name of the school?
 
+print(schools['properties']['name'])
+
 # Question 4: How can we get the latitude of the school?
+latitude = schools ['geometry']['coordinates'][0]
+print(latitude)
 
 # Question 5 (bonus): How can we get the marker-color without the hashtag in front?
+
+marker = schools ['properties']['marker-color'][1:]
+print(marker)
