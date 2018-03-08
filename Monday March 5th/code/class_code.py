@@ -21,10 +21,10 @@ schools = {
 geometry = schools['geometry']['coordinates']
 print(geometry)
 print(coordinates)
-address = schools['properties']['address']
-print(address)
 
 # Question 2: How can we get address of the school?
+address = schools['properties']['address']
+print(address)
 
 # Question 3: How can we get name of the school?
 
