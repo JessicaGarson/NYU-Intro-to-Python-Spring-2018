@@ -2,10 +2,10 @@
 Today we're going to be digging into data structures in python.
 
 ## Slides
-We do have [slides](https://github.com/JessicaGarson/NYU-Intro-to-Python-Spring-2018)
+We do have [slides](http://jessicagarson.com/NYU-Intro-to-Python-March-5/#/)
 
-## Note on grading 
-Still on going. Sorry for any delay here. 
+## Note on grading
+Still on going. Sorry for any delay here.
 
 ## Agenda
 ### 6:30 - 6:45
