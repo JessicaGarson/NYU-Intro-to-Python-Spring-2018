@@ -32,3 +32,5 @@ For the next class we're going to have a guest speaker and we're going to learn 
 - [Video on how the internet works](https://www.youtube.com/watch?v=zaH7rtqkY10)
 - [How internet works](http://www.rookiemag.com/2016/11/how-internet-works/)
 - [How servers work](https://computer.howstuffworks.com/web-server.htm)
+
+If you feel like reading a book on this subject [here is one I recommend](http://web.csulb.edu/~rlaster/docs/cecs572.pdf)
