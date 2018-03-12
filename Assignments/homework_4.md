@@ -58,7 +58,7 @@ Create a tuple of many of the major tasks you have to complete for the day in th
 Create a program that goes through this tuple and tells the story of a typical day for you.
 
 ## Steps
-If you are feeling lost or need some guidance in solving this assignment.  
+If you are feeling lost or need some guidance in solving this assignment. Here are some steps you can follow.  
 
 ### Step 1 - Make the repository
 Make the repository inside of GitHub.
@@ -116,5 +116,5 @@ git status
 git push
 ```
 
-### Step 9 - Send me a link 
+### Step 9 - Send me a link
 Send me a link to your new notebook.
