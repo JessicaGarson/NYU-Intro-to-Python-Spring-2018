@@ -65,9 +65,9 @@ Make the repository inside of GitHub.
 
 ### Step 2 - Clone your repository
 
-This is an example using a repo we created called name_of_repo
+This is an example using a repo we created called name_of_repo you will change this to your username and your repository name. 
 ```
-git clone <https://github.com/your_github_user_name/name_of_repo.git>
+git clone https://github.com/your_github_user_name/name_of_repo.git
 cd name_of_repo
 ```
 
