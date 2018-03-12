@@ -14,11 +14,11 @@ I'll be at office hours Wednesday, Thursday and Friday. Come and hang out. If th
 
 ### Thursday
 - 9am - 11pm - Little Skips 941 Willoughby Ave, Brooklyn, NY 11221
-- 4 - 6pm Think Coffee 248 Mercer St, New York, NY 10012
+- 4 - 6pm - Think Coffee 248 Mercer St, New York, NY 10012
 
 ### Friday
-- 9 - 12pm Stonefruit 1058 Bedford Ave, Brooklyn, NY 11205
-- 4 - 7pm Think Coffee 248 Mercer St, New York, NY 10012
+- 9 - 12pm - Stonefruit 1058 Bedford Ave, Brooklyn, NY 11205
+- 4 - 7pm - Think Coffee 248 Mercer St, New York, NY 10012
 
 ## Homework 4
 Homework 4 is posted and is due Monday.
