@@ -13,7 +13,7 @@ I'll be at office hours Wednesday, Thursday and Friday. Come and hang out. If th
 - 6 - 8pm - Swallow Cafe 49 Bogart St, Brooklyn, NY 11206
 
 ### Thursday
-- 9am - 11pm - Little Skips 941 Willoughby Ave, Brooklyn, NY 11221
+- 9am - 11am - Little Skips 941 Willoughby Ave, Brooklyn, NY 11221
 - 4 - 6pm - Think Coffee 248 Mercer St, New York, NY 10012
 
 ### Friday
