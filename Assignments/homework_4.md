@@ -2,7 +2,7 @@
 Due Monday March 19th
 
 ## Goal
-The goal of this assignment is to solve a problem inside of a jupyter notebook and upload that notebook to a repository on GitHub.
+The goal of this assignment is to solve problems inside of a jupyter notebook and upload that notebook to a repository on GitHub.
 
 ## How to submit this assignment
 Create a repository called "Name - Homework 4" and please put the code from this assignment there and send me the link.

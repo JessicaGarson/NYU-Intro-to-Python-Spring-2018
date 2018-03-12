@@ -1,6 +1,8 @@
 # Monday March 12th
 Today we're going to hang out with guest lecturer Reed Spool who is going to dive into how the internet works.
 
+[Slides for today are found here](http://jessicagarson.com/NYU-Intro-to-Python-March-12/#/).
+
 ## Materials for today
 Materials for today are posted on a [different repository](https://github.com/reedspool/lecture_internet_python/).
 
