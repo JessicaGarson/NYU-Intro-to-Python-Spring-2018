@@ -19,13 +19,20 @@ Let's play around with this environment and install some packages.
 mkdir playing_with_virtualenvs
 cd playing_with_virtualenvs
 virtualenv first_env
-source my_project/bin/activate
+source first_env/bin/activate
 pip install jupyter
 pip install ipython
 pip install numpy
 pip install pandas
 pip freeze
 pip freeze > requirements.txt
+```
+For windows
+```
+mkdir playing_with_virtualenvs
+cd playing_with_virtualenvs
+virtualenv first_env
+source first_env/Scripts/activate
 ```
 
 If you wanted to install a pre-made requirements.txt you do the following:

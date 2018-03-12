@@ -18,6 +18,7 @@ Get your notebook started.
 - Create a dictionary with the name, favorite song, github handle, and twitter handle of you and your partner.
 
 - Create a loop so that you get the following output:
+```
 Name: Name1
 Song: Song1
 GitHub: GitHub1
@@ -26,7 +27,7 @@ Name: Name2
 Song: Song2
 GitHub: GitHub2
 Twitter: Twitter2
-
+```
 ## Add your changes to git.
 You will want to add the jupyter notebook to python. Make sure you commit and push your file.
 
@@ -54,4 +55,4 @@ Create a set of students who were at last class (just make this up) and another 
 Add the code to your fork in today's repo under the pair_programming folder
 
 ## Submit a pull request
-Submit a pull request when you are done. 
+Submit a pull request when you are done.
