@@ -110,35 +110,28 @@ We'll spend this class diving into how the internet works. We'll also review our
 - How the internet works
 - Homework number 4 introduce
 
-## Monday March 15th
+## Thursday March 15th
 6:30 - 8:00 PM
 
 We'll be learning how to traverse files with python.
 
+- Virtual Environment Review
 - File Handling in python
 - Pandas
 - The OS library
 - In class activity
 
-## Thursday March 19th
-6:30 - 8:00 PM
-
-We're going to be working with live data and get started connecting to APIs.
-
-- Homework # 4 show and tel
-- Learn about APIs
-- Connect to APIs
-
-## Thursday March 22nd
+## Monday March 19th
 6:30 - 8:00 PM
 
 This class will focus on the basics of object oriented programming in python.
 
+- Homework Review
 - Object Oriented Python
 - Group activity on OOP
 - Homework 4 review
 
-## Monday March 26th
+## Thursday March 22nd
 6:30 - 8:00 PM
 
 We'll get started writing tests in Python
@@ -146,3 +139,12 @@ We'll get started writing tests in Python
 - Class Projects Review
 - We'll learn how to write tests
 - Group testing activity
+
+## Monday March 26th
+6:30 - 8:00 PM
+
+We're going to be working with live data and get started connecting to APIs.
+
+- Homework # 4 show and tel
+- Learn about APIs
+- Connect to APIs
