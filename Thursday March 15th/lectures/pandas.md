@@ -58,11 +58,34 @@ df.describe()
 ```
 
 ## Shape
-Shape returns a tuple containing the shape of the DataFrame. 
+Shape returns a tuple containing the shape of the DataFrame.
 ```python
 df.shape
 ```
 
 ## Columns
-
+We can see the columns with df.columns.
+```python
 df.columns
+```
+To rename the column with the trailing space we can use this code.
+```python
+df.rename(columns={'Name ':'name'}, inplace=True)
+```
+
+## Clean up the trailing spaces.
+```python
+df['Name'] = df['Name'].str.strip()
+```
+
+## Send to a csv
+To send the python to a csv we can use this code:
+```python
+df.to_csv('cleaned_name_score.csv')
+```
+
+## What's the mean for scores?
+Let's run this code to find out
+```python
+df['Score'].mean()
+```

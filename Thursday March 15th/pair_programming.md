@@ -14,3 +14,6 @@ Hint:
 ```python
 df['num_of_pets'].mean()
 ```
+
+## Take a look at the descriptive statistics for your dataset
+Let's take a look at the stats for it.
