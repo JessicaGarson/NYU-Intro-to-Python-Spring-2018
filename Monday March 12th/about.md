@@ -4,7 +4,7 @@ Today we're going to hang out with guest lecturer Reed Spool who is going to div
 [Slides for today are found here](http://jessicagarson.com/NYU-Intro-to-Python-March-12/#/).
 
 ## Materials for today
-Materials for today are posted on a [different repository](https://github.com/reedspool/lecture_internet_python/). This repo won't be live til later tonight since it has code samples. If you want to follow along here are [notes](https://docs.google.com/document/d/1PtQ1d4J6KV48VQOkB6-_MGU_Q13vWoFjBCd8czttx_Y/edit?usp=sharing)
+Materials for today are posted on a [different repository](https://github.com/reedspool/lecture_internet_python/). This repo won't be live til later tonight since it has code samples. If you want to follow along here are [notes](https://docs.google.com/document/d/1PtQ1d4J6KV48VQOkB6-_MGU_Q13vWoFjBCd8czttx_Y/edit?usp=sharing).
 
 ## What if I'm feeling lost?
 I'll be at office hours Wednesday, Thursday and Friday. Come and hang out. If these hours don't work for you or you want a google hangout, just send me an email and we will figure something out.
