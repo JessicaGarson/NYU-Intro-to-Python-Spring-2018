@@ -28,9 +28,13 @@ For PCs:
 virtualenv newenv
 source first_env/Scripts/activate
 ```
-This worked for another student using a PC and power shell
 
+Another option:
 ```
 virtualenv newenv
 . .\newenv\Scripts\activate.ps1
+```
+If you get a permission error while running this. Try this: 
+```
+Set-ExecutionPolicy RemoteSigned
 ```
