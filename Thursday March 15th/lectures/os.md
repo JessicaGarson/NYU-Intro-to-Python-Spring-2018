@@ -44,3 +44,19 @@ print(contents_one)
 second_file = open(files[1], "r")
 print(contents_two)
 ```
+
+## Let's scan the directory
+We can use the os.scandir to quickly list the files and folders in the directory.
+```python
+folders = []
+files = []
+
+for entry in os.scandir('/Users/jessicagarson/Documents/NYU-Intro-to-Python-Spring-2018/Thursday March 15th/code_and_files'):
+    if entry.is_dir():
+        folders.append(entry.path)
+    elif entry.is_file():
+        files.append(entry.path)
+        
+print('Folders:\n{}'.format(folders))
+print('Files:\n{}'.format(files))
+```
