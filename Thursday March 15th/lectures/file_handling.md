@@ -12,7 +12,12 @@ What does this code do?
 - You might notice a new word we haven't seen yet, with. With is a keyword that tells Python we're going to do something with a file we're about to open.
 - When all commands within the indentation have been run, the file is closed automatically.
 - open() is a built-in function that tells Python to open a file.
-- It takes two arguments, a file name and a mode. he "mode" to open the file in, as a string. The different modes are as follows r: read-only mode, w: write mode, or a: append mode.
+- It takes two arguments, a file name and a mode. he "mode" to open the file in, as a string.
+- The different modes are as follows 'r' : use for reading:
+  1. 'w' : use for writing
+  2. 'x' : use for creating and writing to a new file
+  3. 'a' : use for appending to a file
+  4. 'r+' : use for reading and writing to the same file
 - The as keyword creates a variable for your file handler. The variable in this example is states_file, but you could use any variable name you want.
 - read() is a file method — a function that only works with file handlers.  In this example, the file handler is states_file. .read() will read the entire contents of the file. In line 2 above, I've saved it into the variable states.
 
@@ -39,7 +44,7 @@ import csv
 with open('name_score.csv') as csvfile:  
     reader = csv.DictReader(csvfile)
     for row in reader:
-        print(row['Name '])
+        print(row[Score])
 ```
 
 ## Writing files
