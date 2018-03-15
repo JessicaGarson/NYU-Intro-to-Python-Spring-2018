@@ -3,6 +3,9 @@ What is it?
 - The Internet is basically just a marriage of hardware and protocols.
 - ARPANET - the grandfather to the internet. It’s just a network but the internet is a internet of internets. This started in the 1970s.
 - The internet is always changing as new networks come and old ones go. There are satellite networks and land networks connected via submarine cables. This can be even as small as a home network, or local area network (like an office).
+- The difference between the web and the internet. 
+
+## Clients and Servers
 - The internet is made up of two types of machines clients and server. Every machine is ether a client or a server but many machines can be both.
 - The client requests information from a server. The client starts with the local server and goes to a regional and than national server. It goes up the chain until it gets the information you need is.
 - A server is a computer program or a device that provides functionality for other programs or devices(clients).
