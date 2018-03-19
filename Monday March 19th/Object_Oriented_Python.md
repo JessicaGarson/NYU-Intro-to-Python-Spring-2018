@@ -21,16 +21,128 @@ We have been working with functions for about a month now, we are building off o
 
 ## Classes
 Everything we put inside a class is something that is common to a group of things.
-```python
-class Cars:
-    def driving(self):
-        print('driving down the road, singing to the radio')
 
-    def gas(self):
-        print('at the gas station getting gas')
+```python
+class Student:
+    def classroom(self):
+        print('in class listening to lectures from Jess and pair programming')
+
+    def frustration(self):
+        print('getting a lot of syntax errors, cut and pasting all the things from stack overflow')
+
+    def happiness(self):
+        print('OMG, I solved the error I am so happy and smart')
 ```
 
 ## Objects
+An object is an instance of a class. In this example students in this class are the example.
+
+Here we are saying Yasha is a student in this class and does the things above we defined has being things that students do.
+
+```python
+yasha = Student()
+```
+
+```python
+class Student:
+    def classroom(self):
+        print('in class listening to lectures from Jess and pair programming')
+
+    def frustration(self):
+        print('getting a lot of syntax errors, cut and pasting all the things from stack overflow')
+
+    def happiness(self):
+        print('OMG, I solved the error I am so happy and smart')
+
+
+def main():
+    yasha = Student()
+    yasha.classroom()
+    yasha.frustration()
+    yasha.happiness()
+
+
+if __name__ == "__main__":
+    main()
+```
+
+## Something is missing here!
+We are missing what's known as a constructor method. The constructor method is used to initialize data. It is run as soon as an object of a class is instantiated. Also known as the `__init__` method.
+
+We can use a name variable that we can use to assign names to objects.  
+
+```python
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+    def classroom(self):
+        print('{} is in class listening to lectures from Jess and pair programming'.format(self.name))
+
+    def frustration(self):
+        print('{} is getting a lot of syntax errors, cut and pasting all the things from stack overflow'.format(self.name))
+
+    def happiness(self):
+        print('{} is thinking now - OMG, I solved the error I am so happy and smart'.format(self.name))
+
+
+def main():
+    yasha = Student('Yasha')
+    yasha.classroom()
+    yasha.frustration()
+    yasha.happiness()
+    joyce = Student('Joyce')
+    joyce.classroom()
+    joyce.frustration()
+    joyce.happiness()
+```
+
+## Class and instance variables
+We can assign variables to the class as well as to the instance.
+
+```python
+class Student:
+
+    # Class variables
+    institution = 'NYU'
+    location = 'NYC'
+
+    # Constructor method with instance variables name and age
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    # Method with instance variable followers
+    def set_followers(self, followers):
+        print('This student has {} GitHub followers'.format(followers))
+
+
+def main():
+    # First object, set up instance variables of constructor method
+    andy = Student('Andy', 28)
+
+    # Print out instance variable name
+    print(andy.name)
+
+    # Print out class variable location
+    print(andy.location)
+
+    # Second object
+    george = Student('George', 29)
+
+    # Print out instance variable name
+    print(george.name)
+
+    # Use set_followers method and pass followers instance variable
+    george.set_followers(130)
+
+    # Print out class variable animal_type
+    print(george.institution)
+
+
+if __name__ == "__main__":
+    main()
+```
 
 ## Resources
 - [Beginner's Guide - Object Oriented Programming](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)

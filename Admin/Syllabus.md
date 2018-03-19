@@ -129,14 +129,15 @@ This class will focus on the basics of object oriented programming in python.
 - Homework Review
 - Object Oriented Python
 - Group activity on OOP
-- Homework 4 review
+- Further environment set up
 
 ## Thursday March 22nd
 6:30 - 8:00 PM
 
 We'll get started writing tests in Python
 
-- Further environment set up
+- Inheritance
+- Polymorphism
 - We'll learn how to write tests
 - Group testing activity
 - Choose your own adventure

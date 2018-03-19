@@ -7,6 +7,3 @@ class Student:
 
     def happiness(self):
         print('OMG, I solved the error I am so happy and smart')
-
-    def homework(self):
-        print('this homework is so awesome')
