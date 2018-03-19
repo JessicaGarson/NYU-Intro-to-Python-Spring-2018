@@ -1,4 +1,4 @@
-# Let's turn atom into a python editor
+# Let's Turn Atom Into a Python Editor
 
 ## Linters
 Your new best friend.
@@ -35,6 +35,9 @@ Here are the packages I currently have.
 ├── tidalcycles@0.12.1
 └── todo-manager@0.2.10
 ```
+
+## Take a shortcut
+Make sure you keep in mind the keyboard shortcuts for these packages.
 
 ## Many times you need to pip install things first
 For many of these packages you will need to pip install things first.
