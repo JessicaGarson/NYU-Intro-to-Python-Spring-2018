@@ -136,15 +136,17 @@ This class will focus on the basics of object oriented programming in python.
 
 We'll get started writing tests in Python
 
-- Class Projects Review
+- Further environment set up
 - We'll learn how to write tests
 - Group testing activity
+- Choose your own adventure
 
 ## Monday March 26th
 6:30 - 8:00 PM
 
 We're going to be working with live data and get started connecting to APIs.
 
-- Homework # 4 show and tel
+- Playing our games!
 - Learn about APIs
 - Connect to APIs
+- Saying goodbye
