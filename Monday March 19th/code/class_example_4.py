@@ -20,6 +20,7 @@ def main():
 
     # Print out instance variable name
     print(andy.name)
+    print(andy.age)
 
     # Print out class variable location
     print(andy.location)
@@ -29,6 +30,7 @@ def main():
 
     # Print out instance variable name
     print(george.name)
+    print(george.age)
 
     # Use set_followers method and pass followers instance variable
     george.set_followers(130)

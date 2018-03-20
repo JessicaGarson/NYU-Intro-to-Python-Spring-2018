@@ -1,6 +1,8 @@
 # Monday March 19th
 Today we're going to dive into classes and object oriented python.
 
+(Slides posted here)[http://jessicagarson.com/NYU-Intro-to-Python-March-19/#/].
+
 ## Agenda
 ### 6:30 - 6:45
 Homework review - for this review, let's focus on challenges you faced and how you overcame them.
