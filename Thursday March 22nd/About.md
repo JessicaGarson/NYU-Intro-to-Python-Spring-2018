@@ -1,7 +1,7 @@
 # Thursday March 22nd
 Today we're going to finish up introducing object oriented programming and than getting started writing tests for our code. Testing is a pretty cool implementation of OOP.
 
-[Slides are here](http://jessicagarson.com/NYU-Intro-to-Python-March-22/#/))
+[Slides are here](http://jessicagarson.com/NYU-Intro-to-Python-March-22/#/)
 
 ## Continuing with Objected Oriented Programming
 We will be covering the following:
