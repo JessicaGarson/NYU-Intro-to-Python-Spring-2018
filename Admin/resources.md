@@ -15,6 +15,8 @@ Here are some resources that can help you get started learning how to code.
 
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
 
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/discussion/5105)
+
 - [Deep Learning with Python]( https://www.manning.com/books/deep-learning-with-python)
 
 - [Machine Learning a Probabilistic Prospective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
