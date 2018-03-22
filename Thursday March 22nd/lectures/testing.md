@@ -73,6 +73,17 @@ We know it's something we should do but don't, and it is simply an engineering t
 ## But really everyone tests in some way
 Usually, the tests that are created aren't good or useable.
 
+## Asserts
+- assert: base assert allowing you to write your own assertions
+- assertEqual(a, b): check a and b are equal
+- assertNotEqual(a, b): check a and b are not equal
+- assertIn(a, b): check that a is in the item b
+- assertNotIn(a, b): check that a is not in the item b
+- assertFalse(a): check that the value of a is False
+- assertTrue(a): check the value of a is True
+- assertIsInstance(a, TYPE): check that a is of type "TYPE"
+- assertRaises(ERROR, a, args): check that when a is called with args that it raises ERROR
+
 ## What makes a test good
 Good tests are repeatable, fast, informative, reliable, and focused.
 
