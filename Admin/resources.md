@@ -1,4 +1,4 @@
-# General resources for the class
+# Resources
 Here are some resources that can help you get started learning how to code.
 
 - [Code Newbie Podcast](https://www.codenewbie.org/podcast)
@@ -34,6 +34,10 @@ Here are some resources that can help you get started learning how to code.
 - [Test-Driven-Development for Web Programming](https://www.obeythetestinggoat.com/pages/book.html#toc)
 
 - [2 Scoops of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices-ebook/dp/B076D5FKFX/ref=sr_1_1?s=books&ie=UTF8&qid=1510598897&sr=1-1&keywords=2+scoops+of+django)
+
+- [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?ie=UTF8&qid=1510599157&sr=8-1&keywords=css+and+html)
+
+- [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
 
 ## Not sure yet, that's okay!
 Here are some resources for self guided learning. I recommend trying to be very good at Python and the rest should figure itself out in time.
