@@ -13,4 +13,12 @@ We're going to dive into testing from there. Since testing relies heavily on usi
 - Let's write a simple program with the tests first.
 
 ## Games due Monday
-The text based games are due Monday. Can't wait to see what you build. 
+The text based games are due Monday. Can't wait to see what you build.
+
+## Agenda
+### 6:30 - 7:00
+Inheritance
+### 7:00 - 7:20
+Polymorphism
+### 7:20 - 8:00
+Testing
