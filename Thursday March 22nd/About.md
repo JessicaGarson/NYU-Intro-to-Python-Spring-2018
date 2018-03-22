@@ -7,7 +7,10 @@ We will be covering the following:
 - Polymorphism
 
 ## Testing
-We're going to dive into testing from there. Since testing relies heavily on using classes. 
+We're going to dive into testing from there. Since testing relies heavily on using classes.
 - What is testing?
 - Let's finish some tests
 - Let's write a simple program with the tests first.
+
+## Games due Monday
+The text based games are due Monday. Can't wait to see what you build. 
