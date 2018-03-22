@@ -18,7 +18,10 @@ We're going to dive into testing from there. Since testing relies heavily on usi
 The text based games are due Monday. Can't wait to see what you build.
 
 ## Office Hours
-I'm available for office hours Tomorrow from 8:30 - 9:30am and after 5:30, all day Saturday, Sunday, or Monday. Virtual seemed to work pretty well with one student so email me to schedule.
+I'm available for office hours. The times I'm around are as follows:
+- Tomorrow from 8:30 - 9:30am and after 5:30, all day Saturday, Sunday, or Monday.
+
+Virtual seemed to work pretty well with one student so email me to schedule.
 
 ## Agenda
 ### 6:30 - 7:00

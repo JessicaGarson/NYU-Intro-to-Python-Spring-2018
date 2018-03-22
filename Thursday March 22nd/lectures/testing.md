@@ -7,41 +7,13 @@ Testing is the best way to figure out if your code works the way you think it do
 So let's say we have this code:
 
 ```python
-def add(a, b):
-    return a + b
-
-
-def subtract(a, b):
-    return a - b
-
-
-def multiply(a, b):
-    return a * b
-
-
-def divide(a, b):
-    return float(numerator) / denominator
-
-def main():
-  add(a=3, b=6)
-  subtract(a=5, b=2)
-  multiply(a=3, b=6)
-  divide(a=5, b=2)
-
-
-if __name__ == "__main__":
-    main()
-```
-What does testing look like
-
-```python
 import math
 import unittest
 
 
 class TestAdd(unittest.TestCase):
     """
-    Test the add function from the mymath library
+    Test the add function from the math.py program
     """
 
     def test_add_integers(self):
@@ -69,7 +41,7 @@ class TestAdd(unittest.TestCase):
 
 class TestSubtract(unittest.TestCase):
     """
-    Test the subtract function from the mymath library
+    Test the subtract function from the math.py program
     """
     def test_subtract_integers(self):
         result = math.subtract(1, 1)
