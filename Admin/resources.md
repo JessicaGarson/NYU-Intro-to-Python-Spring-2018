@@ -19,6 +19,8 @@ Here are some resources that can help you get started learning how to code.
 
 - [Deep Learning with Python]( https://www.manning.com/books/deep-learning-with-python)
 
+- [How to do X with Python](https://chrisalbon.com/)
+
 - [Machine Learning a Probabilistic Prospective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 
 ## So you want to write code for the web?
