@@ -5,10 +5,11 @@ Here are a few ways to go about unpacking tuples.
 Since tuples are in an order you can use `.format(*task)` to grab each task in an order and bring it into your formatting.
 
 ```python
-tasks = ('Wake up','Eat breakfast','Coding','Go boxing','Eat lunch','Go to class','Eat dinner','Watch TV series','Sleep')
+tasks = ('Wake up', 'Eat breakfast', 'Coding', 'Go boxing', 'Eat lunch',  'Go to class',  'Eat dinner', 'Watch TV series', 'Sleep')
 
 def daily(major_tasks):
-        print("Usually, I'll {} at 10 and {}, and I'll begin {} when having my breakfast. Then I'l leave home at 12 to {}, and after boxing I'll return home to {}. My class start at 3 so I'll leave at 2 to {}, and after the class I {} and {}. Usually, I {} at 2 am.".format(*major_tasks))
+        print("Usually, I'll {} at 10 and {}, and I'll begin {} when having my breakfast. Then I'll leave home at 12 to {}, and after boxing I'll return home to {}. My class start at 3 so I'll leave at 2 to {}, and after the class I {} and {}. Usually, I {} at 2 am.".format(*major_tasks))
+
 
 daily(major_tasks=tasks)
 ```
