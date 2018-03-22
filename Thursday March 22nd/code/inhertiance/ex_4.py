@@ -19,7 +19,7 @@ class Bro(Fam):
         print('I have 2 children')
 
     def dinner(self):
-        print('Family dinner is at 6pm every night, with his two kids')
+        print('Family dinner is at 6pm every night')
 
 
 def main():
