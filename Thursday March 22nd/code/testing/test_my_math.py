@@ -1,24 +1,24 @@
-import math
+import my_math
 import unittest
 
 
 class TestAdd(unittest.TestCase):
     """
-    Test the add function from the math.py program
+    Test the add function from the my_my_math.py program
     """
 
     def test_add_integers(self):
         """
         Test that the addition of two integers returns the correct total
         """
-        result = math.add(1, 2)
+        result = my_math.add(1, 2)
         self.assertEqual(result, 3)
 
     def test_add_floats(self):
         """
         Test that the addition of two floats returns the correct result
         """
-        result = math.add(10.5, 2)
+        result = my_math.add(10.5, 2)
         self.assertEqual(result, 12.5)
 
     def test_add_strings(self):
@@ -26,24 +26,24 @@ class TestAdd(unittest.TestCase):
         Test the addition of two strings returns the two string as one
         concatenated string
         """
-        result = math.add('abc', 'def')
-        self.assertEqual(result, 'abcdef')
+        result = my_math.add('abc', 'def')
+        self.assertEqual(result, 'abc def')
 
 
 class TestSubtract(unittest.TestCase):
     """
-    Test the subtract function from the math.py program
+    Test the subtract function from the my_math.py program
     """
     def test_subtract_integers(self):
-        result = math.subtract(1, 1)
+        result = my_math.subtract(3, 1)
         self.assertEqual(result, 0)
 
     def test_subtract_floats(self):
-        result = math.subtract(1.0, 0.5)
+        result = my_math.subtract(1.0, 0.5)
         self.assertEqual(result, 0.5)
 
     def test_subtract_strings(self):
-        self.assertRaises(TypeError, math.subtract, ("xyz", "z"))
+        self.assertRaises(TypeError, my_math.subtract, ("xyz", "z"))
 
 # Add a class for testing the multiply function
 

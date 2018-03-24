@@ -30,7 +30,7 @@ def main():
     jess.vacation()
     alan.has_kids()
     # Can we run this?
-    # jess.has_kids()
+    jess.has_kids()
 
 
 if __name__ == "__main__":

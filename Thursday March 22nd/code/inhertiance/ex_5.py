@@ -40,6 +40,10 @@ def main():
     # Use parent swim() method
     kelly.vacation()
 
+    jess = Fam('Jess')
+    jess.vacation()
+    jess.city()
+
 
 if __name__ == "__main__":
     main()
