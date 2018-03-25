@@ -5,9 +5,12 @@ Your first assignment is to create a text based game that can be run in your ter
 
 You should be able to quit the game easily. This should be an original work that is not cut and pasted from the internet. This should incorporate most of what we learned in class. I'm looking for a creative game that doesn't haven't have any syntax errors.
 
-***This assignment is due on Monday March 26th.***
+***This assignment is due on Monday March 26th at 6:30pm***
 
-# Resources
+## How to Submit
+- Email jessica a link to a GitHub repository with your code and directions of how to play your game.
+
+## Resources
 [Simplest rpg game in python](https://balau82.wordpress.com/2010/06/28/simplest-rpg-game-in-python/)
 
 [Text based adventure](http://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python-part-1-items-and-enemies/)
