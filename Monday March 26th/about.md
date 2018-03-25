@@ -1,7 +1,7 @@
 # Monday March 26th
-Our last class together.
+Our last class together. We'll be getting started by playing each others games, review testing, and learn about APIs. We'll conclude class with some final thoughts.
 
-Slides can be found [here]().
+Slides can be found [here](http://jessicagarson.com/NYU-Intro-to-Python-March-26/).
 
 ## Agenda
 ### 6:30 - 6:50
