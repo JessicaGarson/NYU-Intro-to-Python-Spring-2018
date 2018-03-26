@@ -13,6 +13,9 @@ APIs workshop
 ### 7:50 - 8:00
 Parting words  
 
+## Evaluations Due at Midnight
+Make sure you take some to fill this out.
+
 ## Arcade
 We'll get started by playing each others games and viewing code.
 
