@@ -22,7 +22,7 @@ We'll quickly go over the testing class from last week as a class
 ## APIs
 We'll have a short workshop by Sam Agnew on APIs and what they are.
 
-<!-- Materials from this workshop are found [here](). -->
+Materials from this workshop are found [here](https://github.com/sagnew/APIs-101-workshop/).
 
 ## Parting Words
 We'll take a moment to reflect on our time together and how far we have grown.

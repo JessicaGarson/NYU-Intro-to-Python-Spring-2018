@@ -60,6 +60,10 @@ class TestMultiply(unittest.TestCase):
         result = my_math.multiply(3.0, 1.5)
         self.assertEqual(result, 4.5)
 
+    def test_multiply_strings_ints(self):
+        result = my_math.multiply('trish', 3)
+        self.assertEqual(result, 'trishtrishtrish')
+
     def test_multiply_strings(self):
         self.assertRaises(TypeError, my_math.multiply, ('yooo', 'hello'))
 
@@ -75,7 +79,10 @@ class TestDivide(unittest.TestCase):
 
     def test_divide_floats(self):
         result = my_math.divide(5, 2.5)
-        self.assertEqual(result, 2)
+        self.assertEqual(result, 6)
+
+    def test_divide_string(self):
+        self.assertRaises(TypeError, my_math.divide, ('yooo', 'hello'))
 
 
 if __name__ == '__main__':
