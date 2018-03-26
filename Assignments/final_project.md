@@ -8,7 +8,7 @@ You should be able to quit the game easily. This should be an original work that
 ***This assignment is due on Monday March 26th at 6:30pm***
 
 ## How to Submit
-- Email jessica a link to a GitHub repository with your code and directions of how to play your game.
+- Email Jessica a link to a GitHub repository with your code and directions of how to play your game.
 
 ## Resources
 [Simplest rpg game in python](https://balau82.wordpress.com/2010/06/28/simplest-rpg-game-in-python/)

@@ -17,8 +17,8 @@ class TestDivide(unittest.TestCase):
     """
 
     def test_divide_strings(self):
-        self.assertRaises(TypeError, my_math.divide, ('yooo', 'hello'))
-        
+        self.assertRaises(TypeError, my_math.divide, ('w4jlw', '2432j2'))
+
 
 if __name__ == '__main__':
     unittest.main()
